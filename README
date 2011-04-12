@@ -1,7 +1,5 @@
 Projeto da disciplina de Compiladores da Universidade Catolica de Pernambuco
-
 O projeto consiste em um compilador para um pequeno conjunto da linguagem C, contendo:
 	1) Scanner
 	2) Parser
 	3) Gerador de codigo 
-	
